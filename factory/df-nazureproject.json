@@ -1,0 +1,9 @@
+{
+	"name": "df-nazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1891b313-0402-4a07-a462-9f48181f8c5e",
+		"tenantId": "430eb4ee-6854-47fd-86a3-d32648856579"
+	}
+}
